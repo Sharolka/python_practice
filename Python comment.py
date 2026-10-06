@@ -6,3 +6,8 @@
 """This is
 a multiline
 comment"""
+
+# select all raws -> ctrl + / -> added # to all raws
+# This is
+# a multiline
+# comment
